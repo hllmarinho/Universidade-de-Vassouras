@@ -1,0 +1,37 @@
+header{
+    margin: unset;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background: #000000;
+}
+
+body{
+    background-color: #a59c97(213, 213, 213);
+}
+
+h1,p,a{
+    text-decoration: underline;
+    color: #6d1d20;
+    text-align: center;
+    margin: auto; 
+    margin-top: 15px; 
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+img{
+    margin: auto;
+    display: block;
+    width: 80%;
+}
+
+footer{
+    margin: unset;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background: #6d1d20;
+}
